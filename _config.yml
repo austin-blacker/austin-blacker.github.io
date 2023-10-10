@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Liu Yu"
+description              : "I am a graduate student at the College of Life Science, Northwest A&F University, and I also obtained a Bachelor of Science degree from Northwest A&F University. I am a member of the National Key Laboratory of Crop Improvement for Stress Tolerance and Production, Shaanxi Key Laboratory of Agricultural and Environmental Microbiology. I am studying in Professor Shuo Jiao's Soil Health and Microbiome Team. My research focus is on the exploration and construction of core microbiota in agricultural fields. "
+repository               : "austin-blacker/austin-blacker.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Liu Yu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Northwest A&F University"
+  location         : "Shaanxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=LwzmQSMAAAAJ"
+  email            : "liuyu233@nwafu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Liu-412"
   uri              :
   bitbucket        :
   codepen          :
